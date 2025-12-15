@@ -1,12 +1,6 @@
 # Welcome to My Final Prodject Page
 
-This is a website built entirely with GitHub Pages and Markdown with HTML snipits for the visualizations!
-
-- [About This Site](#about-this-site)
-  - [Key Features](#key-features)
-  - [Data Sources/Ideas](#data-sourcesideas)
-  - [Where's Schueller?](#wheres-schueller)
-    <!-- This is my above and beyond component, this can be used to navigate the website and will be more usefull once more is included on it-->
+This is a website built entirely with GitHub Pages and Markdown with HTML snipits for the visualizations Created by Drew Flinn and Iker Sanchez!
 
 
 
@@ -69,7 +63,7 @@ Visualization 2
 We initially ran into an issue in which the numbers we were obtaining yearly were making little to no sense as they were not even reaching the thousands, and we knew that the dataset contains around 8.5 million data points so clearly there was something going wrong. We realized the issue was that the data set was not being loaded properly, so we had to change the approach to how we were introducing the data in colab. After figuring that out we had no other issues.
 
 
-###Results:
+### Results:
 The animated visualization reveals that Chicago’s crime hotspots show geographic stability across the 2001–2025 period. The brightest and most intense hexagons appear in the central, western, and southern areas of the city. These areas display the highest crime counts each year in the animation.
 
 Individual hexagons change color from one year to the next, reflecting changes in annual crime totals however the overall geographic pattern does not shift. No new neighborhoods emerge as hotspots, and none of the existing hotspots disappear or move to different parts of the map.
@@ -78,7 +72,7 @@ The analysis of crime volume over the years reveals a generally decreasing trend
 
 In terms of the most reported crimes, we have Theft, Battery, Criminal Damage, Assault, and Narcotics (From most to least reported in 2025). The temporal analysis shows that while all top crime types followed the general decreasing trend, narcotics-related incidents saw a particularly sharp decline in the last 2 decades. This may reflect shifts in law enforcement priorities regarding drug offenses.
 
-###Conclusion:
+### Conclusion:
 
 Based on the results of the visualization, crime hotspots in Chicago do not move locations over time. From 2001 through 2025, the highest-crime areas remain in the same areas of the city, with no evidence of movement or the creation of new high-crime zones. The only changes observed are fluctuations of crime levels within the already established zones.
 	Beyond this spatial consistency, the temporal analysis reveals a significant overall decline in reported crime volumes from 2001 to 2025. Despite this positive long-term trajectory, specific challenges persist, particularly with the sustained high frequency of Theft and Battery incidents. On the other hand, Narcotics offenses have seen a steep reduction over the last 2 decades, potentially reflecting shifts in enforcement strategies or underlying activity. Ultimately, while the locations of crime in Chicago have remained static, the composition and volume of these incidents have evolved, underscoring the need for policy interventions that address these changing dynamics within the city’s established hotspots.
